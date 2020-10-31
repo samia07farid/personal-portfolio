@@ -16,7 +16,7 @@ const About = () => {
                     <p className="p-sty">
                     I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
                     </p>
-                    <a class="btn contact-btn" href="https://drive.google.com/file/d/1ZqzDRJkyEefrP9x2HzYReLMphzW6CDbk/view?usp=sharing" role="button" target="_blank"><strong>Download Resume</strong></a>
+                    <a class="btn contact-btn" href="https://drive.google.com/file/d/1BfgJrLU2an2iGUT6zj4t3VB_govt20fb/view?usp=sharing" role="button" target="_blank"><strong>Download Resume</strong></a>
                 </div>
                 <div className="col-md-4 col-sm-12">
                     <img src={"https://i.imgur.com/cUHJKcI.png"} className="abt-img" alt=""/>

@@ -34,7 +34,7 @@ const Navbar = () => {
                         <li className="nav-item mr-3 ml-3">
                             <Link className="nav-link" to="/contact">Contact</Link>
                         </li>
-                        <a class="btn resume-btn " href="https://drive.google.com/file/d/1ZqzDRJkyEefrP9x2HzYReLMphzW6CDbk/view?usp=sharing" role="button" target="_blank"><strong>Resume</strong></a>
+                        <a class="btn resume-btn " href="https://drive.google.com/file/d/1BfgJrLU2an2iGUT6zj4t3VB_govt20fb/view?usp=sharing" role="button" target="_blank"><strong>Resume</strong></a>
                     </ul>
                 </div>
             </nav>
