@@ -1,0 +1,24 @@
+.nav-link{
+    color: #08fdd8;
+}
+.resume-btn{
+    color: #08fdd8;
+    font-size: 13px;
+    font-family: "Open Sans", sans-serif;
+    text-decoration: none;
+    padding: 12px 18px 4px 18px;
+    border: 1px solid #08fdd8;
+    letter-spacing: 4px;
+}
+.resume-btn:hover{
+    color: black;
+    transition: 0.25s;
+    background-color: #08fdd8;
+}
+.nav-item{
+    font-size: 20px;
+}
+.nav-item a:hover{
+    color: #45d1bc;
+    transition: 0.1s;
+}

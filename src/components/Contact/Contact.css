@@ -1,0 +1,26 @@
+.form-container{
+    width: 500px;
+    border-radius: 9px;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.main-container{
+    /* border: 1px solid red; */
+    padding: 0px 20px;
+
+}
+.submit-btn{
+    color: #08fdd8;
+    font-size: 13px;
+    font-family: "Open Sans", sans-serif;
+    text-decoration: none;
+    padding: 12x 18px 16px 18px;
+    border: 1px solid #08fdd8;
+    letter-spacing: 4px;
+}
+.submit-btn:hover{
+    color: black;
+    transition: 0.25s;
+    background-color: #08fdd8;
+}
