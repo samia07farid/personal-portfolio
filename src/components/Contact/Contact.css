@@ -24,3 +24,8 @@
     transition: 0.25s;
     background-color: #08fdd8;
 }
+@media (max-width: 575.98px) {
+    .form-container{
+        width: max-content;
+    }
+}

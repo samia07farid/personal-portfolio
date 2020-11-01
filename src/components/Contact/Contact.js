@@ -19,7 +19,7 @@ const Contact = () => {
     return (
         <div>
             <Navbar />
-            <div className="d-flex justify-content-center container-md">
+            <div className="d-flex justify-content-center container-md container-sm container-fluid">
                 <div className="row mt-5  main-container">
                     <form className="form-container" onSubmit={sendEmail}>
                         <h1 style={{textAlign: 'center', fontSize: '50px', color: '#08fdd8'}} className="pb-3">Get in touch</h1>

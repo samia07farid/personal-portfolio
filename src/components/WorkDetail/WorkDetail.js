@@ -7,13 +7,13 @@ const WorkDetail = ({ work }) => {
 
     return (
         <div className="col-md-4 mb-5">
-            <div class="card" style={{ width: '18rem' }}>
+            <div class="card" style={{ width: '18rem', height: '360px'}}>
                 <img src={image} class="card-img-top" alt="..." />
                 <div class="card-body">
                     <h5 class="card-title">{name}</h5>
                     <p class="card-text">{description}</p>
-                    <a href={github} class="btn social-btn">GitHub</a>
-                    <a href={website} class="btn social-btn ml-3">Website</a>
+                    <a href={github} rel="noreferrer" target="_blank" class="btn social-btn">GitHub</a>
+                    <a href={website} rel="noreferrer" target="_blank" class="btn social-btn ml-3">Website</a>
                 </div>
             </div>
         </div >

@@ -3,6 +3,24 @@
 
 }
 .p-sty{
-    font-size: 30px;
+    font-size: 20px;
     color: whitesmoke;
+}
+.about-me{
+    color: salmon;
+    font-size: 25px;
+}
+.contact-btn{
+    color: #08fdd8;
+    font-size: 13px;
+    font-family: 'Itim', cursive;
+    text-decoration: none;
+    padding: 12px 18px;
+    border: 1px solid #08fdd8;
+    letter-spacing: 4px;
+}
+.contact-btn:hover{
+    color: black;
+    transition: 0.25s;
+    background-color: #08fdd8;
 }
